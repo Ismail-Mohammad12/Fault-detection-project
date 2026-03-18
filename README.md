@@ -1,4 +1,4 @@
-# fault-detection-project
+# fault-detection-project ('Still under work')
 
 In this project, I have developed a fault detection model which takes sensor data of temperature, pressure, humidity, and vibration of machine data and predicts whether that aprticular observation of all the 4 mentioned sensor values are faulty where the mahcine has gone fault or not.
 
